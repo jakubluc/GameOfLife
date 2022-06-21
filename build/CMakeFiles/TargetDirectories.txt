@@ -1,0 +1,3 @@
+/run/media/jakub/ShareBig/Documents/projects/c++/GameOfLife/build/CMakeFiles/GameOfLife.dir
+/run/media/jakub/ShareBig/Documents/projects/c++/GameOfLife/build/CMakeFiles/edit_cache.dir
+/run/media/jakub/ShareBig/Documents/projects/c++/GameOfLife/build/CMakeFiles/rebuild_cache.dir

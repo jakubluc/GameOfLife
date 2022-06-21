@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/GameOfLife.dir/main.cpp.o -o GameOfLife 

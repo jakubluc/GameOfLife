@@ -1,0 +1,1 @@
+- move functions into appropirate classes - input, processing, output, controller

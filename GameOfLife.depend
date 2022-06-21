@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1655824790 source:f:\documents\projects\c++\gameoflife\main.cpp
+	<vector>
+	<string>
+	<iostream>
+	<unistd.h>
+	<fstream>
+	<cstdlib>
+	<chrono>
+	<thread>
+
+1655824790 
+
+1655824809 source:/run/media/jakub/ShareBig/Documents/projects/c++/GameOfLife/main.cpp
+	<vector>
+	<string>
+	<iostream>
+	<unistd.h>
+	<fstream>
+	<cstdlib>
+	<chrono>
+	<thread>
+
